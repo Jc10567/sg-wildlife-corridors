@@ -180,3 +180,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 data/raw/
+data/processed/gbif_clean_for_qgis.csv
